@@ -1,3 +1,3 @@
 # Basic-Web-Design
-<a href="Basic-Web-Design"/index.html>Basic Web Design</a>
+<a href="intro_to_html"/index.html>Basic Web Design</a>
 
