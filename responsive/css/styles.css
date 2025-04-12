@@ -10,8 +10,9 @@ img {
     width: 100%;
     
 }
+
 #container {
-    background-color: #F2EEAC  ;
+    background-color: #F2EEAC;
 }
 
 /* Mobile Styles */
@@ -19,7 +20,7 @@ img {
 @media (min-width: 320px) {
     nav {
         background-color: #7796AB;
-        padding: 10px;
+        padding: 5px;
         margin-top: 5px;
         text-align: center;
     }
@@ -27,8 +28,7 @@ img {
 nav ul {
     list-style-type: none;
     padding: 0;
-    margin: 0;
-}
+    }
 
 nav li {
     display: block;
@@ -86,12 +86,11 @@ nav li a {
     width: 50%;
 }
 .scene_reduce_more {
-    width: 60%;
-    height: 40%;
+    width: 50%;
+    height: 30%;
     padding: 5px;
     border-radius: 10px;
     box-shadow: 3px 3px 3px #5F75A4;
-
 }
 }
 
@@ -104,25 +103,32 @@ nav li a {
             border: 4px solid #4C6140;
             border-radius: 20px;
         }
-        nav li a {
-            background-color: #5F75A4;
-        }
+
         nav {
             padding: 2px;
             margin: 0;
         }
+        
+        nav li a {
+            background-color: #5F75A4;
+        }
+        
         hr {
             display: none;
         }
 
-        #multi_col {
+    #multi_col {
             display: flex;
         }
+
+         
     .col {
         margin: 10px;
         padding: 5px;
         border-radius: 2px;
         border: 2px solid;
     }
-
+   
     }
+
+    
