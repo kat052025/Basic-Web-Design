@@ -156,9 +156,9 @@ nav li a {
     border: 2px solid;
     width: 33.3%;
    }
-   .scene_reduce_wider {
-    width: 60%;
-    height: 25%;
+   .scene_reduce_more {
+    width: 40%;
+    height: 10%;
     padding: 5px;
     border-radius: 10px;
     box-shadow: 3px 3px 3px #5F75A4;
