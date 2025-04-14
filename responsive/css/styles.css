@@ -128,7 +128,41 @@ nav li a {
         border-radius: 2px;
         border: 2px solid;
     }
-   
+    .col_home{
+        margin: 10px;
+        padding: 5px;
+        border-radius: 2px;
+        border: 2px solid;
+        width: 50%;  
+    }
+   .col_benefits {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 2px;
+    border: 2px solid;
+    width: 35%;
+   }
+   .col_child {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 2px;
+    border: 2px solid;
+    width: 65%;
+   }
+   .col_threecolumn {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 2px;
+    border: 2px solid;
+    width: 33.3%;
+   }
+   .scene_reduce_wider {
+    width: 60%;
+    height: 25%;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #5F75A4;
+   }
     }
 
     
