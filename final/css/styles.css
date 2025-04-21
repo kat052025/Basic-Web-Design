@@ -64,6 +64,12 @@ h3 {
     text-shadow: 2px 2px 2px #DEC2AA;
 }
 
+.h3_testimonials {
+    text-align: center;
+    color: #142236;
+    text-shadow: 2px 2px 2px #DEC2AA;
+}
+
 footer {
     text-align: center;
     padding: 30px;
@@ -214,6 +220,7 @@ nav li a {
     height: 40%;
 
 }
+
 
     }
 
