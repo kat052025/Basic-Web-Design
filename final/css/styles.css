@@ -1,8 +1,10 @@
 /* Global Styles */
 
 body {
-    background-color: #455a72;
-}
+    background-color: #455a72;    
+
+  }
+
 
 img {
     display: block;
@@ -57,11 +59,23 @@ h1, h2 {
     text-align: center;
     color: #142236;
     text-shadow: 2px 2px 2px #DEC2AA;
+    .righteous-regular {
+        font-family: "Righteous", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
 }
 h3 {
     text-align: left;
     color: #142236;
     text-shadow: 2px 2px 2px #DEC2AA;
+    .faculty-glyphic-regular {
+        font-family: "Faculty Glyphic", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
 }
 
 .h3_testimonials {
