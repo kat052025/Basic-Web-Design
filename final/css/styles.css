@@ -163,8 +163,8 @@ nav li a {
         border: 2px solid;
     }
     .col_home{
-        margin: 10px;
-        padding: 10px;
+        margin: 5px;
+        padding: 5px;
         border-radius: 2px;
         border: 2px solid;
         width: 50%;  
@@ -189,6 +189,7 @@ nav li a {
         border-radius: 2px;
         border: 3px solid;
         width: 33.3%;
+       
    }
    .reduce_image {
         width: 65%;
