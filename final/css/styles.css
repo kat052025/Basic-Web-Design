@@ -2,11 +2,10 @@
 
 body {
     background-color: #455a72;
-    .faculty-glyphic-regular {
-        font-family: "Faculty Glyphic", sans-serif;
-        font-weight: 400;
-        font-style: normal;
-      }
+    font-family: "Forum", serif;
+    font-weight: 400;
+    font-style: normal;
+    
      
   }
 
@@ -49,6 +48,9 @@ nav li a {
     color: #DEC2AA;
     font-size: 25px;
     text-decoration: #3F3D24;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     margin-top: 10px;
 
 }
@@ -64,21 +66,17 @@ h1, h2 {
     text-align: center;
     color: #142236;
     text-shadow: 2px 2px 2px #DEC2AA;
-    .righteous-regular {
-        font-family: "Righteous", sans-serif;
-        font-weight: 400;
-        font-style: normal;
-      }
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    
       
 }
 h3 {
     text-align: left;
     color: #142236;
     text-shadow: 2px 2px 2px #DEC2AA;
-    .faculty-glyphic-regular {
-        font-family: "Faculty Glyphic", sans-serif;
-        font-weight: 400;
-        font-style: normal;
+    
       }
       
 }
@@ -96,7 +94,6 @@ footer {
     text-shadow: 1px 1px 1px #DEC2AA;
 }
 
-}
 
 /* Tablet Styles */
 
@@ -140,6 +137,9 @@ nav li a {
         }
         
         nav li a {
+            display: block;
+            height: 40px;
+            line-height: 40px;
             background-color: #152918;
         }
         
